@@ -9841,7 +9841,7 @@ a {
       position: absolute;
       left: 0px;
       right: 0px;
-      content: "";
+      content: "";s
       height: 1px;
       background: #d3d8dc; }
 
@@ -9861,4 +9861,50 @@ a {
 .counterhead{
   font-weight: bold;
   font-size: 3rem;
+}
+
+
+.person{
+  
+  -webkit-box-pack: justify !important;
+  -ms-flex-pack: justify !important;
+  justify-content: space-between !important;
+}
+.aperson{
+  display: table;
+  margin: 0 auto;}
+.org-str{
+padding-top: 7%;
+padding-bottom: 7%;
+
+}
+.rounded-circle{
+  
+  display: table;
+  margin: 0 auto;
+}
+.mb-1{
+  display: table;
+  margin: 0 auto;
+}
+.srt{
+margin-left: 20%;
+}
+.srt1{
+  margin-left: 12%;
+
+}
+.loc-prv{
+  background-position: 50% 70%;
+ 
+}
+.loc-prevtxt{
+  font-weight: 600;
+  padding-top: 15%;
+  text-align: center;
+  color: white;
+}
+
+.cbds-mini{
+color: #BD9400;
 }
