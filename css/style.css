@@ -9928,5 +9928,12 @@ color: #BD9400;
   font-size: 4rem;
   text-align: center;
 }
-
+.row-2 {display: flex;
+  margin: auto;
+  padding-top: 3%;
+  justify-content: center;
+    } 
+    
+@media (min-width: 1280px) {
+}
 
